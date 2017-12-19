@@ -1,0 +1,34 @@
+.movie_container {
+    display: flex;
+}
+
+.movie_left {
+    width: 40%;
+    background-color: orchid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.movie_left a{
+    margin-top: 15px;
+}
+
+.movie_right {
+    display: flex;
+    flex-direction: column;
+}
+
+.movie_top {
+    background-color: palevioletred;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.movie_top input{
+    width: 75%;
+}
+
+.movie_bottom {
+    height: 90%;
+}

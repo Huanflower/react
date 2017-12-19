@@ -1,0 +1,23 @@
+.app_container {
+
+}
+
+.app_top {
+    height: 10%;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.app_middle {
+    height: 82%;
+}
+
+.app_bottom {
+    height: 8%;
+    background-color: olive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

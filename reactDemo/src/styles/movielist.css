@@ -1,0 +1,20 @@
+.movielist_container {
+    overflow-y: scroll;
+    height: 100%;
+    background-color: papayawhip;
+}
+.movielist_right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.movielist_item {
+    display: flex;
+}
+
+/* .imgPic {
+    width: 100px;
+    height: 200px;
+    background-color: purple;
+} */
